@@ -1,0 +1,2052 @@
+# AURRA | COMPLETE PREMIUM WATCH BUSINESS & E-COMMERCE PLATFORM
+
+## MASTER PROMPT FOR GOOGLE AI STUDIO
+
+### ROLE AND RESPONSIBILITY
+
+Act as a combination of:
+
+- Experienced watch industry business owner.
+- E-commerce business strategist.
+- Premium brand creative director.
+- Senior UI/UX designer.
+- Senior Python FastAPI developer.
+- Full-stack React developer.
+- Database architect.
+- Financial analyst.
+- Performance marketing strategist.
+- Inventory and supply-chain manager.
+- Payment integration specialist.
+- Cybersecurity engineer.
+- Customer experience manager.
+
+Think like an entrepreneur building a serious watch company that wants to compete in the affordable-premium segment.
+
+I am building a watch brand named **AURRA**.
+
+My objective is not simply to create a website that sells watches. I want to establish a complete online watch business with professional technology, operational management, financial tracking, marketing systems, customer support and the ability to scale.
+
+Use Titan and Fastrack as references for their broad business quality, customer experience and product presentation. Create an original AURRA identity. Never copy their branding, logos, website designs, photography or intellectual property.
+
+Your responsibility is to help me build a business platform where customers can purchase watches and the business owner can manage and understand the entire operation.
+
+---
+
+# PART 1: BUSINESS FOUNDATION AND STRATEGY
+
+## 1. AURRA Business Overview
+
+Brand name: AURRA
+
+Business category: Watches and accessories.
+
+Business model: Online direct-to-consumer watch business.
+
+Primary market: India.
+
+Target customers: Men and women aged 18–50.
+
+Positioning: Affordable premium watches.
+
+Core business philosophy:
+
+"Premium-inspired style. Honest pricing. Everyday confidence."
+
+My objective is to provide attractive, practical and reliable watches at competitive prices.
+
+Build the business strategy around five priorities:
+
+1. Product quality.
+2. Competitive pricing.
+3. Strong brand identity.
+4. Customer trust.
+5. Sustainable profitability.
+
+Do not assume that lower prices automatically mean higher sales or profit.
+
+## 2. Customer Segmentation
+
+Design customer personas for different age groups.
+
+**Students and young customers: 18–24**
+
+Preferences:
+- Fashionable watches.
+- Modern designs.
+- Affordable prices.
+- Casual and sports styles.
+- Promotional offers.
+
+**Young professionals: 25–35**
+
+Preferences:
+- Formal watches.
+- Minimalist designs.
+- Stylish metal and leather straps.
+- Work and everyday collections.
+- Gift purchases.
+
+**Adults: 36–50**
+
+Preferences:
+- Elegant designs.
+- Practical features.
+- Comfortable straps.
+- Classic analogue watches.
+- Durable and reliable products.
+
+Do not assume everyone in an age group behaves identically. Use customer research and actual sales data to validate preferences.
+
+## 3. Business Research and Competitive Intelligence
+
+Create a business research module that helps the owner understand the watch market.
+
+Study relevant competitors, including:
+
+- Titan.
+- Fastrack.
+- Sonata.
+- Timex.
+- Casio.
+- Other relevant affordable watch brands.
+
+Research:
+
+- Product categories.
+- Price positioning.
+- Customer expectations.
+- Product presentation.
+- Promotional strategies.
+- Customer complaints and product gaps.
+- Shopping experience.
+- Return and warranty policies.
+- Marketing channels.
+
+Use current, verifiable sources when researching competitors.
+
+Do not copy competitor content or assume their internal costs, suppliers, margins or sales figures.
+
+Create an opportunity analysis identifying how AURRA can differentiate itself.
+
+## 4. Business Model and Growth Planning
+
+Create a complete business plan containing:
+
+- Brand positioning.
+- Target market.
+- Product strategy.
+- Sourcing strategy.
+- Pricing approach.
+- Marketing plan.
+- Sales strategy.
+- Customer acquisition strategy.
+- Operational requirements.
+- Financial plan.
+- Expansion opportunities.
+
+Prepare three planning scenarios:
+
+1. Lean launch.
+2. Growing online business.
+3. Scaled national brand.
+
+Use clearly labelled assumptions when actual data is unavailable.
+
+Prepare a 30-day launch plan, 90-day growth plan and 12-month expansion roadmap.
+
+Do not invent market demand, supplier prices or sales results.
+
+---
+
+# PART 2: AURRA PREMIUM BRAND IDENTITY
+
+## 5. Brand Design
+
+Design AURRA as an independent, recognisable watch brand.
+
+Brand qualities:
+
+- Sophisticated.
+- Elegant.
+- Modern.
+- Trustworthy.
+- Fashionable.
+- Accessible.
+
+Suggested tagline:
+
+"TIMELESS STYLE. DISTINCTIVE YOU."
+
+Colour palette:
+
+- Obsidian Black: #111111
+- Champagne Gold: #C6A66B
+- Warm Ivory: #F7F4EE
+- Pure White: #FFFFFF
+- Charcoal: #303030
+- Soft Grey: #898989
+
+Typography:
+- Headings: Cormorant Garamond or Playfair Display.
+- Body: Manrope or Inter.
+
+Create:
+- AURRA logo.
+- Brand guidelines.
+- Product packaging concept.
+- Shopping bag concept.
+- Watch box concept.
+- Product labels.
+- Social media templates.
+- Promotional banner templates.
+
+The design should look premium without creating a misleading impression about the actual manufacturing quality or product price.
+
+## 6. Complete Website Design
+
+Build an exceptional responsive e-commerce website.
+
+Pages required:
+
+1. Home.
+2. Men's Watches.
+3. Women's Watches.
+4. Unisex Watches.
+5. New Arrivals.
+6. Best Sellers.
+7. Product Collections.
+8. Product Details.
+9. Search Results.
+10. Shopping Cart.
+11. Checkout.
+12. Customer Account.
+13. Wishlist.
+14. Order Tracking.
+15. About AURRA.
+16. Contact Us.
+17. Customer Feedback.
+18. FAQs.
+19. Shipping Policy.
+20. Return and Refund Policy.
+21. Warranty Policy.
+22. Privacy Policy.
+23. Terms and Conditions.
+
+### Homepage
+
+Include:
+
+- Premium navigation.
+- Cinematic watch hero image.
+- Men's and women's collections.
+- Best-selling watches.
+- New arrivals.
+- Featured collections.
+- Lifestyle photography.
+- Promotional campaigns.
+- Brand story.
+- Customer reviews.
+- Benefits of buying from AURRA.
+- Newsletter subscription.
+- Complete footer.
+
+Suggested headline:
+
+"TIMELESS DESIGN. MADE FOR EVERY DAY."
+
+Supporting text:
+
+"Discover distinctive timepieces that combine modern style, everyday practicality and accessible pricing."
+
+### Product catalogue
+
+Implement:
+
+- Product search.
+- Category filtering.
+- Gender filtering.
+- Price filtering.
+- Strap material filtering.
+- Dial colour filtering.
+- Watch type filtering.
+- Availability filtering.
+- Sorting by price.
+- Sorting by popularity.
+- Sorting by newest arrivals.
+
+All filters must work with backend APIs.
+
+### Product details
+
+Display:
+
+- Multiple high-resolution photographs.
+- Product name.
+- Product price.
+- Genuine selling discount.
+- Product specifications.
+- Available colours.
+- Strap details.
+- Movement details.
+- Warranty details.
+- Product description.
+- Inventory availability.
+- Shipping details.
+- Return eligibility.
+- Verified customer reviews.
+- Related watches.
+
+Do not display specifications that have not been confirmed by the supplier or manufacturer.
+
+## 7. Professional Product Photography
+
+Create an actual product image library for AURRA.
+
+Generate or source legally usable photographs for:
+
+- Men's watches.
+- Women's watches.
+- Silver watches.
+- Black watches.
+- Golden watches.
+- Rose-gold watches.
+- Leather strap watches.
+- Stainless-steel watches.
+- Sports watches.
+- Formal watches.
+- Lifestyle campaigns.
+
+Every product must have its own appropriate image.
+
+Requirements:
+
+- Realistic watch faces.
+- Accurate watch proportions.
+- Detailed dial markings.
+- Realistic metal and leather textures.
+- Professional studio lighting.
+- Consistent image quality.
+- Multiple product angles.
+- High-resolution photography.
+
+Do not leave empty image placeholders or use the same image for every product.
+
+Use sample products only during development and clearly mark them as sample inventory.
+
+---
+
+# PART 3: PRODUCT AND SUPPLIER MANAGEMENT
+
+## 8. Product Catalogue Management
+
+Create a complete product management system.
+
+Every product should support:
+
+- Product name.
+- Unique SKU.
+- Product description.
+- Brand.
+- Category.
+- Collection.
+- Gender.
+- Product photographs.
+- Purchase cost.
+- Landed cost.
+- Selling price.
+- Compare-at price.
+- MRP where applicable.
+- Applicable tax configuration.
+- Product status.
+- Stock availability.
+- Warranty details.
+- Weight and packaging dimensions.
+
+Support multiple variants:
+
+- Colour.
+- Dial size.
+- Strap type.
+- Material.
+- SKU.
+- Selling price.
+- Inventory quantity.
+
+Use separate records for individual variants.
+
+## 9. Supplier Management
+
+Build a supplier management module.
+
+Store:
+
+- Supplier name.
+- Business name.
+- Contact person.
+- Email.
+- Phone.
+- Address.
+- GSTIN where applicable.
+- Supplier category.
+- Bank/payment details with restricted permissions.
+- Product catalogue.
+- Purchase prices.
+- Minimum order quantities.
+- Lead time.
+- Payment terms.
+- Return agreement.
+- Warranty agreement.
+- Quality performance.
+- Supplier documents.
+
+Track supplier performance:
+
+- Delivery reliability.
+- Product defect rate.
+- Price changes.
+- Quality issues.
+- Fulfilment delays.
+- Return rates.
+
+Allow administrators to compare multiple suppliers for the same product.
+
+Do not assume that the cheapest supplier is automatically the best supplier.
+
+## 10. Purchase Order Management
+
+Create a purchase order module.
+
+Functions:
+
+- Create purchase orders.
+- Select supplier.
+- Add watch SKUs.
+- Enter quantity.
+- Track purchase price.
+- Calculate estimated procurement cost.
+- Track supplier payment.
+- Record received inventory.
+- Record damaged or missing products.
+- Upload purchase invoices.
+- Update inventory after verified receipt.
+
+Purchase order statuses:
+
+- Draft.
+- Approved.
+- Sent to Supplier.
+- Partially Received.
+- Received.
+- Cancelled.
+
+Require an authorised approval before significant purchase orders are submitted.
+
+## 11. Quality Control
+
+Create a watch quality inspection workflow.
+
+Record:
+
+- Dial appearance.
+- Hand alignment.
+- Case finishing.
+- Strap condition.
+- Clasp functioning.
+- Crown functioning.
+- Battery condition, where applicable.
+- Timekeeping test results.
+- Movement information.
+- Water-resistance test results, when applicable.
+- Packaging condition.
+- Photographic evidence.
+
+Support:
+- Inspection passed.
+- Inspection failed.
+- Quarantined inventory.
+- Supplier return.
+- Rework or replacement.
+
+Do not claim water resistance, accuracy, durability or manufacturing standards without documented evidence.
+
+Create a quality report for each supplier and relevant product batch.
+
+---
+
+# PART 4: COMPLETE E-COMMERCE EXPERIENCE
+
+## 12. Customer Account System
+
+Customers should be able to:
+
+- Register.
+- Log in.
+- Log out.
+- Manage profile.
+- Manage addresses.
+- View order history.
+- Track orders.
+- View payment details.
+- Request cancellations.
+- Request returns.
+- Check warranty details.
+- Save wishlist products.
+- Submit product reviews.
+- Submit customer feedback.
+
+Also support guest checkout with a safe order-tracking method.
+
+## 13. Shopping Cart and Checkout
+
+Implement:
+
+- Persistent shopping cart.
+- Add and remove products.
+- Quantity management.
+- Price calculation.
+- Coupon application.
+- Shipping calculation.
+- Tax calculation.
+- Delivery address.
+- Final order summary.
+
+Calculate final totals on the backend.
+
+Never trust prices or discounts sent by the frontend.
+
+Prevent duplicate checkout requests and accidental duplicate orders.
+
+## 14. Payment Gateway
+
+Primary payment provider: Razorpay.
+
+Build a payment-provider abstraction so another provider can be integrated later.
+
+Support available methods enabled on the merchant account, potentially including:
+
+- UPI.
+- Debit cards.
+- Credit cards.
+- Net banking.
+- Other supported checkout methods.
+- Cash on Delivery.
+
+Implement:
+
+- Razorpay order creation.
+- Payment verification.
+- Signature validation.
+- Webhook verification.
+- Payment status tracking.
+- Failed payment handling.
+- Payment retries.
+- Refund requests.
+- Full refunds.
+- Partial refunds.
+- Payment reconciliation.
+
+Important requirements:
+
+- Create payment orders on the server.
+- Verify signatures on the server.
+- Verify webhook signatures against the raw request body.
+- Process duplicate webhooks idempotently.
+- Verify payment amount and currency.
+- Maintain transaction history.
+- Never store card numbers or CVV.
+- Never expose private gateway credentials to React.
+- Do not report payment success before verified confirmation.
+
+Use Razorpay Test Mode for development.
+
+For real payments, require merchant account activation, production credentials and tested webhooks.
+
+## 15. Cash on Delivery
+
+Build a separate COD process.
+
+Include:
+
+- COD eligibility.
+- PIN code serviceability integration when available.
+- Configurable COD limits.
+- Optional address or phone verification.
+- COD confirmation.
+- COD collection tracking.
+- COD cancellation.
+- COD return handling.
+
+Track:
+
+- COD acceptance rate.
+- COD cancellation rate.
+- RTO rate.
+- Delivery success rate.
+- COD-related operational costs.
+
+Do not mark COD payments as received until authorised confirmation of collection.
+
+## 16. Order Management
+
+Implement complete order lifecycle management.
+
+Order states:
+
+- Pending Payment.
+- Payment Verification.
+- Confirmed.
+- Processing.
+- Packed.
+- Shipped.
+- Out for Delivery.
+- Delivered.
+- Cancellation Requested.
+- Cancelled.
+- Return Requested.
+- Returned.
+- Refund Pending.
+- Refunded.
+
+Create:
+
+- Unique order numbers.
+- Order item snapshots.
+- Order invoices.
+- Order status history.
+- Shipment information.
+- Payment information.
+- Customer information.
+- Cancellation records.
+- Refund records.
+
+Customers should see real-time or latest available order status.
+
+Admin should be able to search, filter and manage orders.
+
+---
+
+# PART 5: INVENTORY, WAREHOUSE AND SHIPPING
+
+## 17. Inventory Management
+
+Build inventory tracking at variant and SKU level.
+
+Track:
+
+- Available stock.
+- Reserved stock.
+- Incoming stock.
+- Damaged stock.
+- Returned stock.
+- Quarantined stock.
+- Sold stock.
+
+Implement:
+
+- Stock reservation.
+- Stock release.
+- Low-stock alerts.
+- Stock adjustments.
+- Inventory history.
+- Stock audits.
+- Inventory movement records.
+- Stock transfer preparation for future multiple locations.
+
+Prevent overselling using transactions and appropriate database locking.
+
+Every manual adjustment should require an authorised user and reason.
+
+## 18. Warehouse Operations
+
+Create a simple fulfilment system.
+
+Order processing workflow:
+
+1. New order enters fulfilment.
+2. Payment/COD eligibility is checked.
+3. Inventory is reserved.
+4. Order is picked.
+5. Product is inspected.
+6. Watch is packed.
+7. Invoice is generated.
+8. Shipping label is created.
+9. Order is dispatched.
+10. Tracking information is updated.
+
+Record who completed each operational step.
+
+## 19. Shipping and Delivery
+
+Design an integration-ready shipping system.
+
+Prepare integrations with suitable Indian shipping services such as Shiprocket or other providers selected by the business.
+
+Support:
+
+- Shipping rate calculation.
+- PIN code validation.
+- Delivery estimates where supported.
+- Shipment creation.
+- AWB generation.
+- Shipping labels.
+- Tracking updates.
+- Non-delivery reports.
+- RTO tracking.
+- Shipment cancellation.
+- Delivery confirmation.
+
+Keep provider integrations behind a common interface.
+
+Do not show fake delivery dates or tracking information.
+
+---
+
+# PART 6: RETURNS, REFUNDS AND WARRANTY
+
+## 20. Returns and Replacement Management
+
+Create a complete return management system.
+
+Customer can request:
+
+- Return.
+- Replacement.
+- Damaged-product complaint.
+- Wrong-product complaint.
+- Missing-accessory complaint.
+
+Capture:
+
+- Order number.
+- Product SKU.
+- Return reason.
+- Description.
+- Images or videos where permitted.
+- Request date.
+- Requested resolution.
+
+Return statuses:
+
+- Requested.
+- Under Review.
+- Approved.
+- Rejected.
+- Pickup Scheduled.
+- Product Received.
+- Quality Inspection.
+- Replacement Initiated.
+- Refund Initiated.
+- Completed.
+
+Create a return inspection workflow.
+
+Do not automatically approve every return or automatically reject eligible customers.
+
+Configure the return window and eligibility based on a legally reviewed AURRA policy.
+
+## 21. Warranty Management
+
+Create a warranty management module.
+
+Track:
+
+- Warranty policy.
+- Warranty duration.
+- Purchase date.
+- Product SKU.
+- Serial number if available.
+- Order reference.
+- Warranty start date.
+- Warranty expiry date.
+- Claim status.
+- Service history.
+
+Allow customers to view warranty details.
+
+Keep warranty promises consistent with the actual supplier or manufacturer agreement.
+
+---
+
+# PART 7: CUSTOMER FEEDBACK AND SUPPORT
+
+## 22. Complete Feedback Form
+
+Create a premium AURRA feedback page.
+
+Fields:
+
+- Customer name.
+- Email.
+- Phone (optional).
+- Order number (optional).
+- Feedback category.
+- Five-star rating.
+- Product feedback.
+- Website feedback.
+- Delivery feedback.
+- Payment feedback.
+- Customer service feedback.
+- Suggestions.
+- Description.
+- Optional attachment.
+
+Show a clear feedback confirmation and reference number.
+
+Store feedback in PostgreSQL.
+
+## 23. Customer Support Ticketing
+
+Create a proper support system.
+
+Allow customers to raise tickets about:
+
+- Order problems.
+- Delivery delays.
+- Product defects.
+- Returns.
+- Refunds.
+- Payment problems.
+- Warranty claims.
+- General questions.
+
+Ticket details:
+
+- Ticket number.
+- Customer ID.
+- Order ID.
+- Category.
+- Priority.
+- Description.
+- Attachments.
+- Assigned agent.
+- Status.
+- Created date.
+- Resolution date.
+
+Ticket statuses:
+
+- Open.
+- Assigned.
+- In Progress.
+- Waiting for Customer.
+- Resolved.
+- Closed.
+
+Allow customers and authorised support agents to communicate through ticket messages.
+
+Maintain conversation history.
+
+Create internal support notes that customers cannot see.
+
+## 24. Product Reviews
+
+Allow genuine buyers to review purchased watches.
+
+Include:
+
+- Star rating.
+- Review title.
+- Review description.
+- Product images.
+- Verified purchase status.
+- Review moderation.
+
+Admin can approve, reject or investigate reviews under a transparent moderation policy.
+
+Never create fake customer ratings or fake testimonials.
+
+## 25. CRM and Customer Management
+
+Create a Customer Relationship Management module.
+
+Maintain customer profiles with:
+
+- Purchase history.
+- Total orders.
+- Total spend.
+- Average order value.
+- Returns.
+- Refunds.
+- Support tickets.
+- Feedback history.
+- Customer registration date.
+- Consent preferences.
+
+Build meaningful customer segments:
+
+- New customers.
+- First-time buyers.
+- Repeat buyers.
+- High-value customers.
+- Inactive customers.
+- Customers with pending support cases.
+
+Do not label customers as high-value or low-value without transparent business rules.
+
+---
+
+# PART 8: FINANCIAL MANAGEMENT AND PROFITABILITY
+
+## 26. Business Financial Dashboard
+
+This is one of the most important sections.
+
+Build a complete financial dashboard for the business owner.
+
+Do not confuse sales revenue with actual profit.
+
+Track:
+
+- Gross sales.
+- Net sales.
+- Discounts.
+- Returns.
+- Refunds.
+- Cost of goods sold.
+- Shipping expenses.
+- Packaging expenses.
+- Payment gateway charges.
+- Marketing expenditure.
+- COD and RTO costs.
+- Supplier payments.
+- Operating expenses.
+- Gross profit.
+- Contribution margin.
+- Estimated operating profit.
+- Cash flow.
+
+Clearly distinguish calculated metrics, actual accounting figures and forecasts.
+
+## 27. Product-Level Cost Calculation
+
+Create a product profitability calculator.
+
+For each watch, calculate:
+
+Landed Cost per Unit =
+Purchase Price
++ Applicable Inbound Freight
++ Import/Duty Costs, if applicable
++ Quality Inspection Cost
++ Allocated Packaging Cost
++ Other Direct Procurement Costs.
+
+Maintain the tax treatment separately according to accounting and GST configuration. Do not treat recoverable input tax as a business expense without proper accounting treatment.
+
+Calculate:
+
+Gross Profit = Net Product Revenue - Cost of Goods Sold.
+
+Gross Margin Percentage = Gross Profit / Net Product Revenue × 100.
+
+Contribution Margin =
+Net Revenue
+- Cost of Goods Sold
+- Variable Payment Fees
+- Variable Shipping Costs
+- Packaging Costs
+- Discounts
+- Expected Variable Return/RTO Costs
+- Variable Marketing Costs.
+
+Clearly define the components to prevent double counting.
+
+Display the result for each watch SKU.
+
+## 28. Pricing Strategy Engine
+
+Build an admin tool for pricing decisions.
+
+Allow the owner to configure:
+
+- Supplier price.
+- Landed cost.
+- Target gross margin.
+- Target contribution margin.
+- Market comparison price.
+- Packaging cost.
+- Payment fees.
+- Shipping expenses.
+- Return/RTO assumptions.
+- Promotional discounts.
+
+Calculate suggested selling prices.
+
+Show warnings when an intended selling price falls below configured margin or contribution thresholds.
+
+Support:
+
+- Regular price.
+- Promotional price.
+- Bundle offers.
+- Seasonal offers.
+- Volume discounts.
+- Coupon discounts.
+
+Require approval before publishing significant price changes.
+
+Do not automatically reduce prices simply to match a competitor.
+
+Do not advertise false discounts or misleading MRP comparisons.
+
+## 29. Business Expense Management
+
+Create an expense management module.
+
+Record:
+
+- Advertising.
+- Website and software expenses.
+- Warehouse rent.
+- Packaging.
+- Employee salaries.
+- Professional services.
+- Photography.
+- Shipping expenses.
+- Office expenses.
+- Utilities.
+- Other operating expenses.
+
+Fields:
+
+- Expense category.
+- Amount.
+- Date.
+- Vendor.
+- Payment method.
+- Invoice attachment.
+- Notes.
+- Approval status.
+
+Create a monthly expense report.
+
+## 30. Profit and Break-Even Analysis
+
+Create business forecasting tools.
+
+Calculate:
+
+Break-even Orders = Monthly Fixed Costs / Average Contribution per Order.
+
+Customer Acquisition Cost =
+Acquisition Marketing Spend / New Customers Acquired.
+
+Average Order Value =
+Net Order Revenue / Eligible Completed Orders.
+
+Marketing Efficiency Ratio =
+Attributed or defined Revenue / Marketing Spend.
+
+Calculate:
+- Gross margin by product.
+- Contribution margin by product.
+- Profitability by collection.
+- Profitability by channel.
+- Break-even sales volume.
+- Monthly cash requirements.
+- Inventory investment.
+- Inventory ageing.
+- Cash tied up in unsold inventory.
+
+Provide conservative, base and optimistic forecasts.
+
+All forecasts must show assumptions and be clearly marked as estimates.
+
+Never call an assumed forecast actual profit.
+
+## 31. Financial Reports
+
+Generate:
+
+- Daily sales reports.
+- Weekly sales reports.
+- Monthly profit reports.
+- Expense reports.
+- Product profitability reports.
+- Payment reports.
+- Refund reports.
+- Tax reports for accountant review.
+- Inventory valuation reports.
+- Supplier payment reports.
+- Cash flow reports.
+
+Support CSV and Excel export.
+
+Use consistent reporting cut-off dates and definitions.
+
+---
+
+# PART 9: MARKETING AND SALES GROWTH
+
+## 32. Marketing Management System
+
+Build an admin marketing module.
+
+Support campaign tracking for:
+
+- Instagram.
+- Facebook.
+- Meta Ads.
+- Google Ads.
+- Search engines.
+- Email.
+- Influencer campaigns.
+- Affiliate/referral campaigns.
+- WhatsApp marketing where consent and applicable platform requirements are satisfied.
+
+Store:
+
+- Campaign name.
+- Platform.
+- Budget.
+- Start and end date.
+- Target audience.
+- Landing page.
+- Campaign source.
+- Conversion data where available.
+
+Integrate marketing analytics through approved platform APIs or analytics tools when credentials are supplied.
+
+## 33. SEO and Organic Growth
+
+Optimise AURRA for search engines.
+
+Implement:
+
+- SEO titles.
+- Meta descriptions.
+- Clean URLs.
+- Product schema markup.
+- Breadcrumbs.
+- Canonical URLs.
+- XML sitemap.
+- Robots.txt.
+- Open Graph metadata.
+- Image alt text.
+- Structured product data.
+
+Create a content management section for:
+
+- Watch guides.
+- Style articles.
+- Gift guides.
+- Product comparisons.
+- Collection stories.
+- Watch maintenance information.
+
+Do not generate copied content from competitors.
+
+## 34. Conversion Optimisation
+
+Implement:
+
+- Clear product photography.
+- Easy navigation.
+- Product comparison.
+- Wishlist.
+- Related products.
+- Customer reviews.
+- Clear shipping information.
+- Clear return information.
+- Fast checkout.
+- Trustworthy payment presentation.
+- Mobile optimisation.
+
+Track funnel performance:
+
+- Homepage visits.
+- Product views.
+- Add to cart.
+- Checkout initiation.
+- Payment completion.
+- Order completion.
+
+Identify where customers abandon the buying journey.
+
+Do not use deceptive dark patterns, fake scarcity or fake countdowns.
+
+## 35. Coupons and Offers
+
+Create a coupon engine.
+
+Support:
+
+- Percentage discount.
+- Fixed discount.
+- Minimum purchase amount.
+- Maximum discount.
+- New customer coupon.
+- Product-specific coupon.
+- Collection-specific coupon.
+- Expiry date.
+- Usage limits.
+- Customer-specific limits.
+- Seasonal campaigns.
+
+Admin should be able to enable, pause and expire campaigns.
+
+Show the actual price breakdown clearly to customers.
+
+## 36. Referral and Loyalty Program
+
+Create an optional future-ready loyalty system.
+
+Features:
+
+- Referral codes.
+- Referral tracking.
+- Configurable rewards.
+- Customer points.
+- Reward redemption.
+- Purchase-based loyalty levels.
+- Referral reports.
+
+Do not issue a reward until the qualifying order satisfies the configured verification requirements.
+
+Track loyalty program costs and profitability.
+
+## 37. Abandoned Cart Recovery
+
+Create a system for recovering abandoned carts.
+
+Features:
+
+- Identify eligible abandoned sessions.
+- Send consent-compliant email reminders.
+- Optional marketing communication through configured providers.
+- Measure recovery rate.
+- Track recovered revenue.
+- Prevent repeated unwanted messages.
+
+Respect communication preferences and opt-outs.
+
+---
+
+# PART 10: ADMIN DASHBOARD AND BUSINESS CONTROL CENTER
+
+## 38. Complete AURRA Admin Dashboard
+
+Create an attractive, professional administration dashboard.
+
+The admin dashboard should have the following modules:
+
+1. Overview.
+2. Sales.
+3. Products.
+4. Product Collections.
+5. Categories.
+6. Suppliers.
+7. Purchase Orders.
+8. Quality Control.
+9. Inventory.
+10. Warehouse.
+11. Customers.
+12. Orders.
+13. Payments.
+14. Refunds.
+15. Returns.
+16. Warranty Claims.
+17. Shipping.
+18. Reviews.
+19. Customer Feedback.
+20. Support Tickets.
+21. Coupons.
+22. Marketing.
+23. Loyalty and Referrals.
+24. Finance and Expenses.
+25. Reports and Analytics.
+26. Website Content.
+27. Admin Users.
+28. Business Settings.
+29. Audit Logs.
+
+Use AURRA's premium visual identity.
+
+Make it responsive and easy to navigate.
+
+## 39. Admin Role Management
+
+Create role-based access control.
+
+Suggested roles:
+
+- Super Admin.
+- Business Owner.
+- Product Manager.
+- Inventory Manager.
+- Order Manager.
+- Marketing Manager.
+- Customer Support Agent.
+- Finance Manager.
+
+Define permissions for:
+
+- Viewing records.
+- Creating records.
+- Updating records.
+- Approving changes.
+- Deleting or archiving records.
+- Issuing refunds.
+- Managing payments.
+- Managing pricing.
+- Accessing financial data.
+- Managing admin users.
+
+Critical financial operations and refunds should require appropriate permissions.
+
+Record important actions in audit logs.
+
+---
+
+# PART 11: MANAGEMENT REPORTS AND BUSINESS INTELLIGENCE
+
+## 40. Owner's Business Command Center
+
+Build a central dashboard that answers the following business questions.
+
+**Sales**
+- How much did AURRA sell today?
+- What are monthly sales?
+- How many orders were completed?
+- What is the average order value?
+
+**Products**
+- Which watches are selling best?
+- Which products have poor sales?
+- Which products have high return rates?
+- Which watches have the best contribution margins?
+
+**Inventory**
+- Which products are running low?
+- Which products are overstocked?
+- Which stock has not sold for a long time?
+- When should I reorder?
+
+**Customers**
+- How many new customers joined?
+- How many customers returned?
+- What are the common customer complaints?
+- What is the repeat purchase rate?
+
+**Marketing**
+- Which campaigns generate orders?
+- How much does customer acquisition cost?
+- Which channels produce profitable customers?
+- What is the marketing return?
+
+**Finance**
+- What is the current cash position?
+- What expenses increased?
+- Which products are profitable?
+- How much money is blocked in inventory?
+- What is the break-even requirement?
+
+Use real database records, clearly defined date ranges and consistent calculations.
+
+Allow date filters and CSV/Excel exports.
+
+---
+
+# PART 12: ADVANCED AI FEATURES
+
+## 41. AURRA AI Customer Assistant
+
+Prepare an optional AI-powered shopping assistant.
+
+It should help customers:
+
+- Find watches based on budget.
+- Find watches for formal occasions.
+- Find watches for casual use.
+- Compare available products.
+- Understand product specifications.
+- Check store policies.
+- Find order information after secure authentication.
+
+The assistant must use real catalogue and policy information.
+
+It must not invent product stock, prices, warranties, delivery times or payment statuses.
+
+For sensitive actions, direct the customer to authenticated application workflows.
+
+## 42. AI Business Assistant for the Owner
+
+Create a future-ready administrative AI assistant.
+
+It should answer questions using real business data:
+
+- Which watches should I reorder?
+- Which products have low contribution margins?
+- What caused an increase in returns?
+- Which supplier has the highest defect rate?
+- What are the common payment failures?
+- Which marketing campaign is performing best?
+- Which products have ageing inventory?
+
+It can recommend actions but must show the underlying metrics and explain assumptions.
+
+Do not permit an AI recommendation to automatically modify prices, issue refunds, change stock or send customer campaigns without authorised approval.
+
+## 43. Product Recommendation Engine
+
+Prepare recommendation functionality based on:
+
+- Customer preferences.
+- Product categories.
+- Previous purchases.
+- Product similarity.
+- Available stock.
+- Current prices.
+- Customer-selected budget.
+
+Respect privacy and customer preferences.
+
+Keep recommendations relevant rather than showing random products.
+
+---
+
+# PART 13: TECHNOLOGY AND BACKEND ARCHITECTURE
+
+## 44. Recommended Technology Stack
+
+Frontend:
+- React.js.
+- Modern JavaScript.
+- Tailwind CSS or organised custom CSS.
+- Reusable components.
+
+Backend:
+- Python.
+- FastAPI.
+- Pydantic v2.
+- SQLAlchemy 2.x.
+- Alembic.
+
+Database:
+- PostgreSQL.
+
+Caching and background tasks:
+- Redis.
+- A suitable worker system such as Celery or an equivalent.
+
+File storage:
+- AWS S3 or compatible object storage.
+
+Payments:
+- Razorpay integration.
+
+Deployment:
+- Docker.
+- Docker Compose.
+- GitHub Actions.
+- HTTPS.
+- Production environment variables.
+
+Keep the architecture modular.
+
+Start with a modular monolith rather than prematurely creating microservices.
+
+## 45. Backend Project Architecture
+
+Organise the backend into modules:
+
+app/
+  main.py
+
+  core/
+    config.py
+    database.py
+    security.py
+    permissions.py
+    logging.py
+    exceptions.py
+
+  models/
+  schemas/
+  repositories/
+  services/
+
+  api/
+    v1/
+
+  integrations/
+    payments/
+    shipping/
+    email/
+    storage/
+    analytics/
+
+  workers/
+  utils/
+
+  tests/
+
+alembic/
+scripts/
+Dockerfile
+docker-compose.yml
+requirements.txt
+.env.example
+README.md
+
+Separate:
+
+- API endpoints.
+- Business logic.
+- Database access.
+- Validation.
+- External integrations.
+- Background processing.
+
+Do not put the entire application into main.py.
+
+## 46. Database Modules
+
+Create appropriate PostgreSQL models for:
+
+- Users.
+- Roles.
+- Permissions.
+- Addresses.
+- Categories.
+- Collections.
+- Products.
+- Product variants.
+- Product images.
+- Suppliers.
+- Supplier products.
+- Purchase orders.
+- Purchase order items.
+- Quality inspections.
+- Inventory.
+- Inventory movements.
+- Carts.
+- Cart items.
+- Wishlists.
+- Orders.
+- Order items.
+- Payments.
+- Payment attempts.
+- Webhook events.
+- Refunds.
+- Coupons.
+- Reviews.
+- Feedback.
+- Support tickets.
+- Support messages.
+- Return requests.
+- Warranty claims.
+- Shipments.
+- Customers.
+- Campaigns.
+- Referrals.
+- Loyalty points.
+- Expenses.
+- Audit logs.
+- Notifications.
+
+Use correct database relationships, indexing, unique constraints and appropriate deletion rules.
+
+Keep historical product prices and address snapshots on orders.
+
+Use database migrations for every schema change.
+
+## 47. API Design
+
+Use versioned REST endpoints:
+
+/api/v1/
+
+Provide proper APIs for:
+
+- Authentication.
+- Products.
+- Categories.
+- Search.
+- Cart.
+- Checkout.
+- Payments.
+- Orders.
+- Inventory.
+- Suppliers.
+- Purchase Orders.
+- Customers.
+- Feedback.
+- Reviews.
+- Returns.
+- Refunds.
+- Shipping.
+- Notifications.
+- Marketing.
+- Reports.
+- Admin.
+
+Implement:
+
+- Validation.
+- Pagination.
+- Filtering.
+- Sorting.
+- Authentication.
+- Role permissions.
+- Consistent error responses.
+- OpenAPI documentation.
+
+Never expose database objects or internal secrets directly.
+
+---
+
+# PART 14: SECURITY, PRIVACY AND RELIABILITY
+
+## 48. Application Security
+
+Implement:
+
+- Secure password hashing.
+- Access and refresh token handling.
+- Refresh token revocation and rotation.
+- Appropriate secure cookie settings.
+- CSRF protection where applicable.
+- Rate limiting.
+- Input validation.
+- Access control.
+- SQL injection prevention.
+- File upload validation.
+- Secure admin access.
+- Audit logging.
+- Secure error handling.
+- Secrets management.
+
+Use HTTPS in production.
+
+Never store plain-text passwords or expose private credentials.
+
+## 49. Customer Data Protection
+
+Implement privacy-conscious processing.
+
+Requirements:
+
+- Clear privacy notices.
+- Purpose-specific consent.
+- Data minimisation.
+- Communication preferences.
+- Marketing opt-out.
+- Secure access to personal data.
+- Appropriate data retention.
+- Secure account deletion or applicable data-erasure workflows.
+- Personal data incident response procedures.
+
+Do not use customer data for unrelated marketing without the required permission.
+
+## 50. Reliability and Performance
+
+Implement:
+
+- Database transactions.
+- Safe inventory updates.
+- Idempotent checkout.
+- Payment reconciliation.
+- Database backup.
+- Recovery procedures.
+- Structured logs.
+- Error monitoring.
+- Health checks.
+- Background task retries.
+- Cache invalidation.
+- Image optimisation.
+- Performance monitoring.
+
+Do not let a temporary email, analytics or marketing integration failure break customer checkout.
+
+---
+
+# PART 15: INDIA BUSINESS AND LEGAL COMPLIANCE
+
+## 51. Compliance Research Module
+
+AURRA will operate in India.
+
+Before launch, research the current rules and applicability using official government sources.
+
+Check:
+
+- Consumer Protection Act.
+- Consumer Protection (E-Commerce) Rules and amendments.
+- Digital Personal Data Protection Act and Rules.
+- GST registration and applicable tax requirements.
+- GST invoicing.
+- Legal Metrology requirements for pre-packaged commodities.
+- Product labelling and MRP declarations.
+- Trademark registration.
+- Import requirements, if watches are imported.
+- Any applicable BIS or product-specific mandatory standards.
+- Advertising and endorsement requirements.
+- Payment and consumer refund requirements.
+
+Important:
+
+Do not rely on outdated legal summaries.
+
+Check the latest notifications, effective dates, transitional provisions and amendments.
+
+Prepare a compliance checklist with:
+
+- Requirement.
+- Applicability to AURRA.
+- Responsible person.
+- Required documents.
+- Website implementation.
+- Status.
+- Review date.
+- Official source.
+
+Do not guess GST rates, HSN classifications, registration obligations or product certification requirements.
+
+Provide configurable tax and invoice settings.
+
+Require a qualified Indian CA or legal professional to validate business-specific obligations before launch.
+
+## 52. Customer-Facing Legal Pages
+
+Create editable pages for:
+
+- Terms and Conditions.
+- Privacy Policy.
+- Shipping Policy.
+- Cancellation Policy.
+- Return and Refund Policy.
+- Warranty Policy.
+- Contact Information.
+- Grievance and Customer Support Information.
+
+Display truthful business and seller information.
+
+Keep policies consistent with actual operational capabilities.
+
+Do not promise returns, refunds or warranties that the business cannot provide.
+
+---
+
+# PART 16: TESTING AND QUALITY CONTROL
+
+## 53. Automated Testing
+
+Use Pytest for backend testing.
+
+Test:
+
+- User registration.
+- Authentication.
+- Role permissions.
+- Product APIs.
+- Product filtering.
+- Supplier operations.
+- Purchase orders.
+- Inventory.
+- Stock reservations.
+- Checkout.
+- Coupons.
+- Payment verification.
+- Webhooks.
+- Refunds.
+- COD.
+- Order status transitions.
+- Reviews.
+- Feedback submissions.
+- Return requests.
+- Admin operations.
+- Financial calculations.
+
+Test edge cases, duplicate submissions, concurrent requests and invalid input.
+
+Use isolated test databases and mock payment services.
+
+Do not run destructive tests against production data.
+
+## 54. End-to-End Testing
+
+Test the complete customer journey:
+
+1. Customer visits AURRA.
+2. Views a watch.
+3. Searches products.
+4. Creates an account.
+5. Adds a watch to wishlist.
+6. Adds it to cart.
+7. Applies a coupon.
+8. Enters delivery address.
+9. Completes payment in test mode.
+10. Receives order confirmation.
+11. Views order history.
+12. Tracks shipment.
+13. Receives delivery.
+14. Submits feedback.
+15. Writes a verified-purchase review.
+
+Also test the business owner journey:
+
+1. Admin receives product shipment.
+2. Adds inventory.
+3. Publishes products.
+4. Receives an order.
+5. Processes payment.
+6. Packs the order.
+7. Dispatches shipment.
+8. Updates fulfilment status.
+9. Reviews financial performance.
+10. Handles a customer complaint.
+11. Processes an eligible return.
+12. Reviews business analytics.
+
+---
+
+# PART 17: EXECUTION AND DEVELOPMENT WORKFLOW
+
+## 55. How You Must Work
+
+I want actual project implementation, not only explanations.
+
+First inspect the existing AURRA project.
+
+Identify:
+
+- Existing React structure.
+- Existing backend files.
+- Existing database configuration.
+- Existing reusable components.
+- Existing product data.
+- Existing APIs.
+- Existing bugs.
+- Missing business functionality.
+
+Do not overwrite working files unnecessarily.
+
+Create an implementation roadmap and a clear task checklist.
+
+Build the application in the following phases.
+
+### Phase 1: Business and product strategy
+
+- Brand identity.
+- Customer personas.
+- Market research.
+- Product categories.
+- Supplier strategy.
+- Pricing model.
+- Financial assumptions.
+
+### Phase 2: Premium storefront
+
+- Homepage.
+- Collections.
+- Product catalogue.
+- Product details.
+- Product images.
+- Shopping cart.
+- Customer account.
+
+### Phase 3: Backend foundation
+
+- FastAPI.
+- PostgreSQL.
+- Authentication.
+- Database design.
+- Migrations.
+- API structure.
+
+### Phase 4: Core e-commerce
+
+- Products.
+- Variants.
+- Inventory.
+- Cart.
+- Checkout.
+- Payments.
+- Orders.
+
+### Phase 5: Business operations
+
+- Suppliers.
+- Purchase orders.
+- Quality control.
+- Warehouse.
+- Shipping.
+- Returns.
+- Warranty.
+
+### Phase 6: Customer experience
+
+- Feedback.
+- Product reviews.
+- Support tickets.
+- CRM.
+- Notifications.
+
+### Phase 7: Business management
+
+- Pricing calculator.
+- Finance.
+- Expenses.
+- Profitability.
+- Business reports.
+- Admin dashboard.
+
+### Phase 8: Marketing and growth
+
+- SEO.
+- Coupons.
+- Marketing analytics.
+- Referral system.
+- Loyalty.
+- Abandoned-cart recovery.
+
+### Phase 9: Advanced functionality
+
+- AI shopping assistant.
+- AI business assistant.
+- Product recommendations.
+- Advanced analytics.
+
+### Phase 10: Production readiness
+
+- Security.
+- Automated testing.
+- Performance.
+- Docker.
+- Deployment.
+- Monitoring.
+- Backups.
+- Documentation.
+
+Do not attempt to implement everything as one untested code dump.
+
+Complete each module with working code, tests and documentation before moving to the next module.
+
+If the available development environment has limitations, implement the strongest usable version and clearly identify the remaining external configuration or integration work.
+
+## 56. Required Documentation
+
+Create:
+
+1. Project architecture document.
+2. Database relationship documentation.
+3. API documentation.
+4. Local development setup.
+5. Environment configuration guide.
+6. Payment integration guide.
+7. Shipping integration guide.
+8. Admin user guide.
+9. Supplier management guide.
+10. Deployment guide.
+11. Database backup guide.
+12. Testing guide.
+13. Business operations guide.
+14. Launch readiness checklist.
+
+## 57. FINAL ACCEPTANCE CRITERIA
+
+AURRA is not considered complete simply because its homepage looks attractive.
+
+The final platform must demonstrate:
+
+**Brand**
+- Original AURRA identity.
+- Premium watch photography.
+- Consistent branding.
+- Professional mobile experience.
+
+**E-commerce**
+- Working products.
+- Search and filters.
+- Cart.
+- Wishlist.
+- Checkout.
+- Customer accounts.
+
+**Backend**
+- FastAPI.
+- PostgreSQL.
+- Secure authentication.
+- Working database relationships.
+- Reliable APIs.
+
+**Business Operations**
+- Product sourcing records.
+- Supplier management.
+- Purchase orders.
+- Inventory.
+- Quality control.
+- Shipping.
+- Returns.
+- Warranty.
+
+**Payments**
+- Razorpay Test Mode.
+- Server-side verification.
+- Webhooks.
+- COD.
+- Refund workflows.
+
+**Customer Management**
+- Reviews.
+- Feedback.
+- Support tickets.
+- CRM.
+- Notifications.
+
+**Finance**
+- Product costing.
+- Selling price calculations.
+- Contribution margin.
+- Expenses.
+- Profitability.
+- Cash flow.
+- Break-even reports.
+
+**Marketing**
+- SEO.
+- Coupons.
+- Campaign tracking.
+- Conversion analytics.
+- Customer retention.
+
+**Administration**
+- Role permissions.
+- Business analytics.
+- Audit logs.
+- Reports.
+
+**Production**
+- Automated tests.
+- Security checks.
+- Deployment documentation.
+- Backups.
+- Monitoring.
+
+# FINAL DIRECTIVE
+
+Build AURRA as a complete, professionally designed and commercially practical watch e-commerce business.
+
+Think like an experienced entrepreneur who understands that a successful watch company needs:
+
+- The right products.
+- The right suppliers.
+- Competitive but profitable prices.
+- Excellent product presentation.
+- Customer trust.
+- Strong operations.
+- Reliable technology.
+- Effective marketing.
+- Financial discipline.
+- Repeat customers.
+
+Do not focus only on making the website beautiful.
+
+Make the platform useful for both the customer purchasing a watch and the owner managing the entire business.
+
+Do not claim that AURRA is profitable until actual financial data demonstrates profitability.
+
+Start by auditing my existing project, preparing the business and technical architecture, identifying missing information and implementing the highest-priority working modules.
+
+**The ultimate vision: AURRA should be built as an independent affordable-premium watch brand, with the operational discipline and customer experience expected from a serious national watch company.**

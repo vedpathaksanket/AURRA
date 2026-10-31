@@ -1,0 +1,6 @@
+{
+  "name": "AURRA Watches | Premium Timepieces & Business Platform",
+  "description": "Independent affordable-premium watch brand and comprehensive direct-to-consumer e-commerce business operations platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
